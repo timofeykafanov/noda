@@ -2,7 +2,7 @@
 
 test task
 
-[timofeykafanov.github.io/noda/](https://github.com/timofeykafanov.github.io/noda/)
+[timofeykafanov.github.io/noda/](https://timofeykafanov.github.io/noda/)
 
 ------
 
